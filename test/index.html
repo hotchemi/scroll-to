@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <title>QUnit</title>
+  <link rel="stylesheet" href="../libs/qunit/qunit.css" type="text/css" media="screen" />
+</head>
+<body style="height:1200px">
+<h1 id="qunit-header">scroll-to unit test</h1>
+  <h2 id="qunit-banner"></h2>
+  <div id="qunit-testrunner-toolbar"></div>
+  <h2 id="qunit-userAgent"></h2>
+  <ol id="qunit-tests"></ol>
+  <div id="qunit-fixture">
+    <div id="testBox"></div>
+  </div>
+  <div class="scrollTo">Top</div>
+  <script src="../libs/qunit/qunit.js"></script>
+  <script src="../libs/jquery-loader.js"></script>
+  <script src="../src/scroll-to.js"></script>
+  <script src="scroll-to-test.js"></script>
+  <script>
+    $(function() {
+      $('.scrollTo').scrollTo();
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+{
+  "name": "scroll-to",
+  "title": "scroll-to",
+  "description": "simple scroll jquery plugin.",
+  "version": "0.1.0",
+  "homepage": "http://hotchemi.github.com/scroll-to/",
+  "author": {
+    "name": "Shintaro Katafuchi",
+    "email": "hot.chemistry21@gmail.com",
+    "url": "https://github.com/hotchemi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hotchemi/scroll-to"
+  },
+  "bugs": {
+    "url": "https://github.com/hotchemi/scroll-to/issues"
+  },
+  "licenses": [
+    {
+      "type": "GPL",
+      "url": "http://hotchemi.github.com/scroll-to//blob/master/LICENSE-GPL"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": ["query","scroll","animation"]
+}

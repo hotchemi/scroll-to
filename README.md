@@ -1,5 +1,4 @@
 # scroll-to
-
 simple scroll jquery plugin.
 
 ## Getting Started
@@ -14,8 +13,8 @@ In your web page:
 <script src="jquery.js"></script>
 <script src="dist/scroll-to.min.js"></script>
 <script>
-jQuery(function($) {
-  $.awesome(); // "awesome"
+$(function() {
+  $('.scrollTo').scrollTo();
 });
 </script>
 ```

@@ -1,4 +1,4 @@
-# scroll-to [![Build Status](https://secure.travis-ci.org/hrysd/capistrano-lingr.png)](http://travis-ci.org/hotchemi/scroll-to)
+# scroll-to [![Build Status](https://secure.travis-ci.org/hotchemi/scroll-to.png)](http://travis-ci.org/hotchemi/scroll-to)
 simple scroll jquery plugin.
 
 ## Getting Started
